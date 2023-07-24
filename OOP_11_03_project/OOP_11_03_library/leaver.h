@@ -10,7 +10,7 @@
 class Leaver
 {
 public:
-    Leaver();
+    OOP_11_03_LIBRARY_API Leaver();
     OOP_11_03_LIBRARY_API std::string leave(std::string user_name);
     
 };

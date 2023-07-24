@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string>
 
-#include "../OOP_11_03_library/leaver.h"
+#include "OOP_11_03_library/leaver.h"
 
 int main()
 {
