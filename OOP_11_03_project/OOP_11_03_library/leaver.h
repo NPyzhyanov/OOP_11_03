@@ -1,7 +1,7 @@
 #ifndef LEAVER_H
 #define LEAVER_H
 
-#ifndef OOP_11_03_LIBRARY_EXPORTS
+#if defined OOP_11_03_library_EXPORTS
 #define OOP_11_03_LIBRARY_API __declspec(dllexport)
 #else
 #define OOP_11_03_LIBRARY_API __declspec(dllimport)
